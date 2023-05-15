@@ -1,6 +1,8 @@
 # Activity 2
 conditionals
+
 Below you will find some exercises done with the python language using conditionals:
+
 17. Code to know if a number is positive or negative.
 18. Code to know which of the two entered numbers is the greater
 19. Code to know which is the largest number and which is the smallest number among three numbers entered
